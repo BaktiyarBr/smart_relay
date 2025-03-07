@@ -1,11 +1,18 @@
-24739088246428087
+24749536501643631
 3225-471H
 Untitled
 
 
 0
+2
+2
+AGM402A1
+DFN-8_L5.8-W4.9-P1.27-LS6.0-BL-1
+
+
 0
-0
+9
+3
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -20,6 +27,13 @@ audio belton reverb
 0
 7
 7
+BP2535C
+SOT33-5A_L3.9-W2.6-P0.90-BP2525D
+
+
+0
+5
+5
 BP8005
 SOT33-5B_L3.9-W2.6-P0.90-LS4.0-BL
 
@@ -65862,6 +65876,13 @@ Yellow 5381 Series LED
 0
 2
 2
+ME6231A33
+SOT-89-3_L4.5-W2.5-P1.50-LS4.2-BR
+
+
+0
+3
+3
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -68610,6 +68631,13 @@ NetTie
 NetTie-4_THT_Pad1.0mm
 Net tie, 4 pin, 1.0mm round THT pads
 net tie
+0
+4
+4
+OR357
+SOP-4_L4.4-W3.9-P2.54-LS7.0-BL
+
+
 0
 4
 4
@@ -97915,6 +97943,13 @@ test point THT pad
 0
 1
 1
+Transformer
+EE8.3
+
+
+0
+6
+6
 Transformer_SMD
 Pulse_P0926NL
 SMT Gate Drive Transformer, 1:1:1, 8.0x6.3x5.3mm (https://productfinder.pulseeng.com/products/datasheets/SPM2007_61.pdf)
@@ -98741,6 +98776,13 @@ igbt diode module
 0
 25
 25
+UM10B
+UMB-4_L3.8-W3.6-P2.50-LS4.9-BL
+
+
+0
+4
+4
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
