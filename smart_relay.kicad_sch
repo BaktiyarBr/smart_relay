@@ -8684,7 +8684,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 403.86 217.17 90)
+		(at 403.86 217.17 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8698,7 +8698,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "CC"
@@ -8707,7 +8707,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-323"
@@ -10407,7 +10407,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "100"
 			(at 259.08 73.6599 0)
 			(effects
 				(font
